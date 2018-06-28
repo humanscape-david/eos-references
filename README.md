@@ -7,24 +7,26 @@
 ### http://scatter-eos.com/
 - EOS DAPP과 이오스 지갑을 연결, 안전하게 DAPP에서 정보를 사용하게 해줌
 
-### https://one-pay.io/
-
 ### https://etheos.io
+- blockchain application ecosystem
+- 구독하기 밖에 없음, 아직 런칭 안한듯
 
 ### http://www.bitjoy.io
+- Power-up your game with Blockchain
+- 2018 Summer 런칭 예정
 
 ### http://eosscan.io
 - 이오스의 ICO에 대한 정보를 보여주는 차트, 이더리움 네트워크에 EOS token 구매내역 분석, ICO 참여자들에게 분석자료 제공
 
 ### https://iryo.network/#network
-
-### https://mithrilcoin.io
-
-### http://shopxing.io
+- 의료 데이터를 다루는 블록체인 기반의 의료 네트워크
+- 건강 데이터를 표준화하고 의료AI 및 빅데이터 연구에 힘을 실어 차세대 의료를 추진하겠다고 함
 
 ### http://www.buttrfly.net/#/
+- 인플루언서들과 브랜드를 연결
 
 ### http://smoke.io
+- testnet이 있는데 작동 안함
 
 ### http://www.eos.cafe
 - EOS 투자자들을 위한 사이버 공간, BEANS Token, 2018년 여름 EOS 투자자들에게 에어드랍, 토큰 소유자가 소유하는 실제 카페로 전세계 운영계획
@@ -34,25 +36,18 @@
 - 투명성, 효율성,평등성 기반의 정보공유
 - 중국어만 지원
 
-### https://iiot.tel
-
 ### https://www.eosauthority.com/
 - 이더리움 기반의 EOS Token 등록이 제대로 완료되었는지 확인해주는 간단한 도구
 
 ### http://eostracker.io/
-- 블록체인 실시간 확인 툴
+- 이오스 블록체인 실시간 확인 툴
 
 ### http://www.carmel.io/
+- 블록체인 기반 기술 교육 플랫폼
 
-### http://ionia.network/
+### https://walleteos.com/
+- 이오스 지갑
 
-### https://everipedia.org/
-
-### https://eosindex.io/posts/20
-
-### http://3gatti.com/
-
-### https://eosfinex.com/
 
 ## Dapps
 ### Oraclechain (Developing), http://oraclechain.io/
